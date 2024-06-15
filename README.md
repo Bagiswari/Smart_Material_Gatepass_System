@@ -12,21 +12,21 @@ Flutter SDK is installed on your machine. You can download it from the Flutter O
 A Firebase project set up. You can create one at Firebase Console.
 Dart SDK (comes with Flutter).
 A code editor like Visual Studio Code or Android Studio.
-Steps
+Steps -
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/flutter_firebase_project.git
+bash :
+Copy code :
+git clone https://github.com/Bagiswari/Smart_Material_Gatepass_System.git
 Navigate to the project directory:
 
-bash
-Copy code
+bash :
+Copy code :
 cd flutter_firebase_project
 Install dependencies:
 
-bash
-Copy code
+bash :
+Copy code :
 flutter pub get
 Set up Firebase for your Flutter app:
 
