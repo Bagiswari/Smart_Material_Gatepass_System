@@ -1,6 +1,6 @@
 # SMART MATERIAL GATEPASS SYSTEM
 
-A new Flutter project : https://final123-b8d94.web.app/
+Preview : https://final123-b8d94.web.app/
 
 ## Getting Started
 
