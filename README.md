@@ -3,7 +3,7 @@
 Preview: https://final123-b8d94.web.app/
 
 Log-in credentials:
-Email: Gatepass@gmail.com
+Email: Gatepass@gmail.com | 
 Password: Material@123
 
 Contact
